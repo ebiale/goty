@@ -1,0 +1,13 @@
+html, body {
+  background-color: #1c1c1c;
+  color: white;
+}
+
+hr {
+  background-color: gray;
+}
+
+.chart-container .chart-legend .legend-label .active .legend-label-text{
+  color: #fff;
+  font-weight: bold;
+}

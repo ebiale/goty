@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-store-graphics": {
+      "hosting": {
+        "goty": [
+          "fire-store-graphics"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-store-graphics"
+  }
+}
